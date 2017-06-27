@@ -1,0 +1,43 @@
+<style>
+  h1{
+    color: #333366;
+     font-size: 30px;
+     text-align: center;
+   }
+
+  h3{
+    color:blue;
+    font-size: 20px;
+    text-align: center;
+  }
+
+    h2{
+      color:#993366;
+       font-size: 20px;
+       text-align: center;
+     }
+
+    h3{
+      color:#ffff00;
+        font-size: 20px;
+       text-align: center;
+     }
+
+     h4{
+       color:#ffff00;
+         font-size: 20px;
+        text-align: center;
+      }
+
+     b{
+       color : #000066;
+       font-size: 30px;
+       text-align: center;
+     }
+
+    img {
+      height: 300px;
+      width: 50%;
+      left: 30%;
+      }
+ </style>
