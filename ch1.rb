@@ -40,7 +40,7 @@ class Candidate
     finalResults = Array.new
     finalResults[0] = candidate1
     finalResults[1] = candidate2
-    finalResults[2] = candidate3
+
 
     finalResults.each { |candidate| puts "Name: " + candidate.name + "Score " + candidate.totalVotes }
 end
